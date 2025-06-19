@@ -66,7 +66,7 @@ Each selection dynamically updates the visualization, helping users gain insight
 
 ### 📸 Screenshot: Day vs Night Traffic Visualization
 
-<img src="visualisation.png" alt="Day vs Night Traffic" width="800"/>
+<img src="" alt="Day vs Night Traffic" width="800"/>
 
 
 
