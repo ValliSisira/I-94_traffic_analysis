@@ -47,6 +47,4 @@ The dataset used is `Metro_Interstate_Traffic_Volume.csv`, which contains hourly
 
 ---
 
-### 📬 Author
-Valli Sisira Sista  
-Master’s Student in Computer Science – University of Houston
+
