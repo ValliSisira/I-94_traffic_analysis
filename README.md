@@ -46,5 +46,27 @@ The dataset used is `Metro_Interstate_Traffic_Volume.csv`, which contains hourly
 - Temperature and weather have only a mild effect on traffic volume.
 
 ---
+## 📊 Interactive Dashboard Overview
+
+This Streamlit-based dashboard offers multiple traffic volume visualizations using a convenient dropdown menu. Users can select different views to explore traffic patterns on I-94.
+
+### 🧭 Dropdown Options Available:
+- Traffic Volume Distribution
+- Day vs Night Traffic Volume
+- Monthly Average Traffic Volume
+- Yearly Average Traffic Volume
+- Day of Week Traffic Volume
+- Hourly Traffic: Weekday vs Weekend
+- Traffic Volume by Weather
+- Traffic Volume by Detailed Weather Description
+
+Each selection dynamically updates the visualization, helping users gain insights from various angles.
+
+---
+
+### 📸 Screenshot: Day vs Night Traffic Visualization
+
+<img src="visualisation.png" alt="Day vs Night Traffic" width="800"/>
+
 
 
